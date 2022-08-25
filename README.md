@@ -1,5 +1,5 @@
 # Election_Analysis
-Python Module 3 see "Pypoll_Challenge.py"
+Python 
 ## Overview of Election Audit
 -	In this module, I am doing an election audit from data contained in a csv
 	file and automating this audit using Python. This audit contains the total
