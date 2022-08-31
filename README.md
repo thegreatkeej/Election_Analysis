@@ -1,13 +1,12 @@
 # Election_Analysis
 Python 
 ## Overview of Election Audit
--	In this module, I am doing an election audit from data contained in a csv
-	file and automating this audit using Python. This audit contains the total
-	number of votes, total votes and percentage of votes for each canidate, 
-	total votes and percentage of votes for each county, election winner and
-	county with the most votes. Once the audit is complete, my job is to 
-	generate a vote count report that could be used to certify other voting 
-	areas.
+-	This is an election audit from data contained in a csv file. The audit is 
+-	automated using Python. The audit contains the total number of votes, 
+-	total votes and percentage of votes for each canidate, 	total votes and 
+-	percentage of votes for each county, election winner and county with the 
+-	most votes. Once the audit is complete, my job is to generate a vote count 
+-	report that could be used to certify other voting areas.
 	
 ## Election-Audit Results
 -	There were 369711 votes cast
